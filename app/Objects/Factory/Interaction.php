@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Objects;
+namespace App\Objects\Factory;
 
 
 class Interaction
